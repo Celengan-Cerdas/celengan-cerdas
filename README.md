@@ -4,8 +4,6 @@
 
 ## 1 GENERAL INFORMATION
 
-### 1.1 Application Overview
-
 Celengan Cerdas adalah aplikasi inovatif yang dirancang untuk memudahkan pengguna dalam mencapai tujuan menabung untuk membeli barang atau mencapai target tertentu. Aplikasi ini menyediakan fitur-fitur canggih untuk memfasilitasi proses menabung, termasuk:
 
 - **Detail Target Barang**: Memungkinkan pengguna untuk menentukan target menabung berdasarkan nama, gambar, dan Harga.
@@ -16,25 +14,22 @@ Celengan Cerdas adalah aplikasi inovatif yang dirancang untuk memudahkan penggun
 
 Celengan Cerdas memberikan pengalaman menabung yang intuitif dan menyenangkan, membantu pengguna mengelola keuangan mereka secara efisien untuk mencapai impian pembelian atau tujuan mereka.
 
-## 2. APPLICATION SUMMARY
+## 2. GETTING STARTED
 
-### 2.1 Application Configuration
-
-## 3 GETTING STARTED
-
-### 3.1 Installation and Logging In
+### 2.1 Installation and Logging In
 
 Berikut adalah langkah-langkah umum untuk menginstal aplikasi Celengan Cerdas berbasis Android menggunakan file APK:
 
-> **Catatan**: *Sebelum mengikuti langkah-langkah ini, pastikan bahwa Anda telah mengizinkan instalasi aplikasi dari sumber yang tidak dikenal di pengaturan perangkat Android Anda.*
+> **Catatan**: _Sebelum mengikuti langkah-langkah ini, pastikan bahwa Anda telah mengizinkan instalasi aplikasi dari sumber yang tidak dikenal di pengaturan perangkat Android Anda._
 
     *anda dapat mengaktifkan opsi ini di "Pengaturan" -> "Keamanan" -> "Sumber yang tidak dikenal".
 
 1. Download File APK:
 
-    Buka browser di perangkat Android Anda.
-Kunjungi situs web resmi Celengan Cerdas atau sumber tepercaya lainnya yang menyediakan file APK aplikasi.
-Unduh file APK Celengan Cerdas ke perangkat Android Anda.
+        Buka browser di perangkat Android Anda.
+
+    Kunjungi situs web resmi Celengan Cerdas atau sumber tepercaya lainnya yang menyediakan file APK aplikasi.
+    Unduh file APK Celengan Cerdas ke perangkat Android Anda.
 
 2. Buka File Manager:
 
@@ -46,15 +41,17 @@ Unduh file APK Celengan Cerdas ke perangkat Android Anda.
 
 4. Izinkan Instalasi dari Sumber yang Tidak Dikenal:
 
-    Jika belum diaktifkan, sistem akan meminta izin untuk menginstal aplikasi dari sumber yang tidak dikenal.
-Ketuk "Pengaturan" ketika muncul notifikasi.
-Aktifkan opsi "Sumber yang Tidak Dikenal" dan kembali ke proses instalasi.
+        Jika belum diaktifkan, sistem akan meminta izin untuk menginstal aplikasi dari sumber yang tidak dikenal.
+
+    Ketuk "Pengaturan" ketika muncul notifikasi.
+    Aktifkan opsi "Sumber yang Tidak Dikenal" dan kembali ke proses instalasi.
 
 5. Instal Aplikasi:
 
-    Kembali ke File Manager dan ketuk file APK Celengan Cerdas.
-Ketuk opsi "Instal" saat diminta.
-Tunggu hingga proses instalasi selesai.
+        Kembali ke File Manager dan ketuk file APK Celengan Cerdas.
+
+    Ketuk opsi "Instal" saat diminta.
+    Tunggu hingga proses instalasi selesai.
 
 6. Buka Aplikasi:
 
@@ -62,7 +59,7 @@ Tunggu hingga proses instalasi selesai.
 
 Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android Anda. Pastikan untuk mengikuti petunjuk selanjutnya yang mungkin muncul di aplikasi untuk mengonfigurasi preferensi dan mulai menetapkan target menabung Anda.
 
-### 3.2 Application Menu
+### 2.2 Application Menu
 
 1. Onboard
 
@@ -77,8 +74,7 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
     <img src="img/login.png" width="200">
 
 4. Home
-
-    <img src="img/home.png" width="200">
+   <img src="img/home.png" width="200">
 
 5. Tambah Celengan
 
@@ -100,11 +96,9 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
 
     <img src="img/view-account.png" width="200">
 
-## 4 USING THE APPLICATION
+## 3 USING THE APPLICATION
 
-### 4.1 Instruction
-
-#### 4.1.1 Signup Akun
+#### 3.1 Signup Akun
 
 - Pada halaman Onboard, anda bisa mengetuk tombol "Signup"
 
@@ -116,7 +110,7 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
 
 - Selamat, anda berhasil Signup
 
-#### 4.1.2 Masuk Akun
+#### 3.2 Masuk Akun
 
 - Pada halaman Onboard, anda bisa mengetuk tombol "Login"
 
@@ -128,7 +122,7 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
 
 - Selamat, anda berhasil masuk akun
 
-#### 4.1.3 Menambah Celengan
+#### 3.3 Menambah Celengan
 
 - Pada halaman Dashboard, klik tombol "Menabung" (ikon celengan pintar)
 
@@ -140,7 +134,7 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
 
 - Selamat, anda berhasil menambahkan celengan
 
-#### 4.1.4 Menabung
+#### 3.4 Menabung
 
 - Pada halaman Dashboard pilih Celengan yang akan kita tabung.
 
@@ -152,7 +146,7 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
 
 - Selamat anda berhasil menabung
 
-#### 4.1.5 Mengambil Tabungan
+#### 3.5 Mengambil Tabungan
 
 - Pada halaman Dashboard pilih Celengan yang akan kita ambil.
 
@@ -163,8 +157,8 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
     <img src="img/detail-celengan.png" width="200">
 
 - Selamat anda berhasil mengambil tabungan
-  
-#### 4.1.6 Mengatur Notifikasi Tabungan
+
+#### 3.6 Mengatur Notifikasi Tabungan
 
 - Pada halaman Dashboard ketuk tombol Atur Notifikasi Celengan (ikon Gear).
 
@@ -176,7 +170,7 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
 
 - Selamat anda berhasil mengatur notifikasi
 
-#### 4.1.7 Manajemen Akun
+#### 3.7 Manajemen Akun
 
 - Pada halaman Dashboard ketuk tombol Akun (ikon orang).
 
@@ -190,9 +184,7 @@ Sekarang, Anda seharusnya dapat menggunakan Celengan Cerdas di perangkat Android
 
     <img src="img/view-account.png" width="200">
 
-## 5 Help Desk
-
-Email
+## 4 Help Desk
 
 - **Dhimaz Purnama Adjhi** (<dhimazpurnama123@gmail.com>)
 - **Salman Abdul Jabbaar Wiharja** (<salmanwiharja8@gmail.com>)
